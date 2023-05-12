@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/crypto-adapters" />
+            <option value="$PROJECT_DIR$/crypto-adapters/adapter-http" />
+            <option value="$PROJECT_DIR$/crypto-adapters/adapter-json" />
+            <option value="$PROJECT_DIR$/crypto-adapters/adapter-persistence" />
+            <option value="$PROJECT_DIR$/crypto-apps" />
+            <option value="$PROJECT_DIR$/crypto-apps/app-api" />
+            <option value="$PROJECT_DIR$/crypto-apps/app-batch" />
+            <option value="$PROJECT_DIR$/crypto-libs" />
+            <option value="$PROJECT_DIR$/crypto-libs/application-contract" />
+            <option value="$PROJECT_DIR$/crypto-libs/application-domain" />
+            <option value="$PROJECT_DIR$/crypto-libs/application-port" />
+            <option value="$PROJECT_DIR$/crypto-libs/application-service" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
