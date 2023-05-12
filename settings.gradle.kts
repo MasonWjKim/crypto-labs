@@ -1,0 +1,11 @@
+rootProject.name = "crypto-labs"
+include(":crypto-adapters:adapter-http")
+include(":crypto-adapters:adapter-http")
+include(":crypto-adapters:adapter-json")
+include(":crypto-adapters:adapter-persistence")
+include(":crypto-apps:app-api")
+include(":crypto-apps:app-batch")
+include(":crypto-libs:application-contract")
+include(":crypto-libs:application-domain")
+include(":crypto-libs:application-service")
+include(":crypto-libs:application-port")
