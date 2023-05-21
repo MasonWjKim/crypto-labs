@@ -4,7 +4,7 @@ plugins {
     id("io.spring.dependency-management") version "1.1.0" apply false
     id("org.springframework.boot") version "3.0.4" apply false
     id("io.freefair.lombok") version "6.4.1" apply false
-    id("com.linecorp.build-recipe-plugin") version "1.1.1"
+    id("com.linecorp.build-recipe-plugin") version "1.1.1" // 모듈 컨피그
 
     kotlin("jvm") version "1.7.22" apply false
     kotlin("kapt") version "1.7.22" apply false
