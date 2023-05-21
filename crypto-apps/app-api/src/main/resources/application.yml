@@ -4,4 +4,4 @@ spring:
   config:
     import:
     classpath:
-      - 'classpath:adapter-http-property-apikeys.yml''
+      - 'classpath:adapter-http-property-apikeys.yml'
